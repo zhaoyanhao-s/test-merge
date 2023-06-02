@@ -1,2 +1,2 @@
 1.在new-featurn中进行一次提交 
-2.在main中进行一次提交 
+2.在new-featurn中进行一次提交 
